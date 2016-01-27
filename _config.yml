@@ -1,0 +1,28 @@
+name: Heloise and Abelard
+favicon: null
+layout_spectrum: 0.7234207785222679
+typography_spectrum: 0.28248816286213696
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.0676958707626909
+  lightness: 0.9413873355370015
+  saturation: 0.7776233395561576
+  rhythmicContrast: 0.6836412502452731
+purpose: []
