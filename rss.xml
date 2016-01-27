@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Heloise and Abelard]]></title>
         <description><![CDATA[Heloise and Abelard]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/heloise-and-abelard/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Wed, 27 Jan 2016 19:40:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/heloise-and-abelard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://heloiseandabelard.com/Images/Quotes-whenever.jpg">]]></description>
+            <link>https://thegrid.ai/heloise-and-abelard/aac20365-9532-41c8-a4aa-c1890654f1c5/index.html</link>
+            <guid isPermaLink="false">aac20365-9532-41c8-a4aa-c1890654f1c5</guid>
+            <pubDate>Wed, 27 Jan 2016 19:40:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://heloiseandabelard.com/TopMenu/AbelardBanner.jpg">]]></description>
-            <link>undefined05f37662-6880-43e2-9ed3-4893c8014973/index.html</link>
+            <link>https://thegrid.ai/heloise-and-abelard/05f37662-6880-43e2-9ed3-4893c8014973/index.html</link>
             <guid isPermaLink="false">05f37662-6880-43e2-9ed3-4893c8014973</guid>
             <pubDate>Wed, 27 Jan 2016 19:40:49 GMT</pubDate>
         </item>
